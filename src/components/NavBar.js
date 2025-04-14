@@ -7,3 +7,6 @@ function NavBar() {
     </nav>
   );
 }
+
+// Add at the bottom of the file:
+export default NavBar;
